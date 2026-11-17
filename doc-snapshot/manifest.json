@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "docsRoot": "https://docs.copilotkit.ai/vue/google-adk",
+  "syncedAt": "2026-11-17T15:48:51.933Z",
+  "pages": {
+    "/google-adk/generative-ui/components": {
+      "file": "google-adk__generative-ui__components.md",
+      "sha256": "ef0e5d334b0439fab7f0b4dd7a3369ae4b28e385dfa9506bfbaebc0a3d5d7733",
+      "bytes": 33533,
+      "lines": 795,
+      "routes": [
+        "/generative-ui/components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:52 GMT"
+    },
+    "/google-adk/generative-ui/components/catalogs": {
+      "file": "google-adk__generative-ui__components__catalogs.md",
+      "sha256": "b55b779e97488e736ec36fd4b6a288409523cf4e7e086c1277294b06bbcedc4c",
+      "bytes": 23825,
+      "lines": 520,
+      "routes": [
+        "/generative-ui/components/catalogs"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:52 GMT"
+    },
+    "/google-adk/generative-ui/components/from-a2ui": {
+      "file": "google-adk__generative-ui__components__from-a2ui.md",
+      "sha256": "3a4e9b1761eff961c0f7ede5494c070c5694958474cbcb6838dca656d2df98ac",
+      "bytes": 16664,
+      "lines": 279,
+      "routes": [
+        "/generative-ui/components/from-a2ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:52 GMT"
+    },
+    "/google-adk/generative-ui/components/markdown-mode": {
+      "file": "google-adk__generative-ui__components__markdown-mode.md",
+      "sha256": "6b187c392852fc3b97c91759e207ce373231a6e60bbbe9b3ec27a2c4652e5d3c",
+      "bytes": 8735,
+      "lines": 188,
+      "routes": [
+        "/generative-ui/components/markdown-mode"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:52 GMT"
+    },
+    "/google-adk/generative-ui/components/standard-catalog": {
+      "file": "google-adk__generative-ui__components__standard-catalog.md",
+      "sha256": "64d9a264699117d61f05406136ae7f27b01460d265a9965e376ecb71c2fc63ee",
+      "bytes": 16158,
+      "lines": 238,
+      "routes": [
+        "/generative-ui/components/standard-catalog"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:52 GMT"
+    },
+    "/google-adk/generative-ui/components/state-and-actions": {
+      "file": "google-adk__generative-ui__components__state-and-actions.md",
+      "sha256": "ff0091b72596c4eb3005ff3804b98ea2d1b91cc1af3eaae7b031d4781227ac81",
+      "bytes": 23519,
+      "lines": 556,
+      "routes": [
+        "/generative-ui/components/state-and-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/google-adk/generative-ui/components/surfaces": {
+      "file": "google-adk__generative-ui__components__surfaces.md",
+      "sha256": "4416bbc3bd630970211c21930b61cf86531181f3d49f4557fe0852047fef6a02",
+      "bytes": 21256,
+      "lines": 427,
+      "routes": [
+        "/generative-ui/components/surfaces"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/google-adk/generative-ui/components/theming": {
+      "file": "google-adk__generative-ui__components__theming.md",
+      "sha256": "6a721a1d7282092759ead73615224980dbe3a745464d8d7b73a826db15382a6f",
+      "bytes": 6802,
+      "lines": 203,
+      "routes": [
+        "/generative-ui/components/theming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/google-adk/generative-ui/components/transports": {
+      "file": "google-adk__generative-ui__components__transports.md",
+      "sha256": "19609be526738a63ad25f59ee61cc7e990f61f711e9e10d16b492be58f8ff9ba",
+      "bytes": 5158,
+      "lines": 139,
+      "routes": [
+        "/generative-ui/components/transports"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk": {
+      "file": "vue__google-adk.md",
+      "sha256": "fe94898c17272028c76e0cce7ad1504a4717b45b7bad3d4069d6ad0c8d3cd9e0",
+      "bytes": 8231,
+      "lines": 201,
+      "routes": [
+        "/",
+        "/quickstart"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/custom-look-and-feel/headless-ui": {
+      "file": "vue__google-adk__custom-look-and-feel__headless-ui.md",
+      "sha256": "61b93e2f85745e9b10356a17aa7780c5e66b714572c37bd92c26d2eba1e7f3e0",
+      "bytes": 7206,
+      "lines": 195,
+      "routes": [
+        "/custom-look-and-feel/headless-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/custom-look-and-feel/slots": {
+      "file": "vue__google-adk__custom-look-and-feel__slots.md",
+      "sha256": "992430bb56a5ab1d285cfae290b94341e89d1e3a910166d582a705103c1db89e",
+      "bytes": 8806,
+      "lines": 270,
+      "routes": [
+        "/custom-look-and-feel/slots"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/frontend-tools": {
+      "file": "vue__google-adk__frontend-tools.md",
+      "sha256": "c039a209fbfeae2f5121070e825d0a25f39f21b5466a89185fd69365b47a903d",
+      "bytes": 3136,
+      "lines": 76,
+      "routes": [
+        "/frontend-tools"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/generative-ui/mcp-apps": {
+      "file": "vue__google-adk__generative-ui__mcp-apps.md",
+      "sha256": "a56ae2f57bffbfdd5959094850de7ba2284895815ad13cd3fe7df5c3d2ff6ee6",
+      "bytes": 5472,
+      "lines": 155,
+      "routes": [
+        "/generative-ui/mcp-apps"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/generative-ui/state-rendering": {
+      "file": "vue__google-adk__generative-ui__state-rendering.md",
+      "sha256": "802bee4233f1fe11f2d2cc83f201a441945769f477aafc41e27c39eff548daed",
+      "bytes": 7586,
+      "lines": 213,
+      "routes": [
+        "/generative-ui/state-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/generative-ui/tool-based": {
+      "file": "vue__google-adk__generative-ui__tool-based.md",
+      "sha256": "06d603a544543781bd1dba482a300d2591eaffcba94320b7d27bed7376e7c438",
+      "bytes": 3477,
+      "lines": 84,
+      "routes": [
+        "/generative-ui/tool-based"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/generative-ui/tool-rendering": {
+      "file": "vue__google-adk__generative-ui__tool-rendering.md",
+      "sha256": "e6ad1597686ecbc3fc23021530ff610d875acf8093783919edf6a9354b4ff814",
+      "bytes": 5406,
+      "lines": 142,
+      "routes": [
+        "/generative-ui/tool-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/headless-threads": {
+      "file": "vue__google-adk__headless-threads.md",
+      "sha256": "bbf589e416d0e02eeeb26e7ddf5f65bf415e88591735ebe24b036a123fc2ddf9",
+      "bytes": 7881,
+      "lines": 186,
+      "routes": [
+        "/headless-threads"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/human-in-the-loop": {
+      "file": "vue__google-adk__human-in-the-loop.md",
+      "sha256": "e139fab9462b8334e69240179b94278981b4f9a07a5b9174386f9389ef833278",
+      "bytes": 5604,
+      "lines": 129,
+      "routes": [
+        "/human-in-the-loop"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/human-in-the-loop/governed-actions": {
+      "file": "vue__google-adk__human-in-the-loop__governed-actions.md",
+      "sha256": "6108b33ad1000801d9062b0cd869240c294ad278ee202eaae810db0217a636ac",
+      "bytes": 8125,
+      "lines": 247,
+      "routes": [
+        "/human-in-the-loop/governed-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:53 GMT"
+    },
+    "/vue/google-adk/human-in-the-loop/headless": {
+      "file": "vue__google-adk__human-in-the-loop__headless.md",
+      "sha256": "9df2eb5e5ec5a40d90f1f79121d205ff822721b569595566d54b9b27e672d6bc",
+      "bytes": 2113,
+      "lines": 55,
+      "routes": [
+        "/human-in-the-loop/headless"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/human-in-the-loop/useInterrupt": {
+      "file": "vue__google-adk__human-in-the-loop__useInterrupt.md",
+      "sha256": "dbbb8130692d29f63d62201bc3239724656755966d839c180207502d832f1800",
+      "bytes": 5190,
+      "lines": 127,
+      "routes": [
+        "/human-in-the-loop/useInterrupt"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/multi-agent/subagents": {
+      "file": "vue__google-adk__multi-agent__subagents.md",
+      "sha256": "667bd2963e8ae739ebda3e72021041c360440ea6bc63a44909aa5da3f6b11a91",
+      "bytes": 30254,
+      "lines": 825,
+      "routes": [
+        "/multi-agent/subagents"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/prebuilt-components": {
+      "file": "vue__google-adk__prebuilt-components.md",
+      "sha256": "72f09074b5f268d3d3e7d1f9930183cc7c3e6109262273b5dadcfdc8c42f8ce8",
+      "bytes": 2757,
+      "lines": 70,
+      "routes": [
+        "/prebuilt-components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/prebuilt-components/copilot-threads-drawer": {
+      "file": "vue__google-adk__prebuilt-components__copilot-threads-drawer.md",
+      "sha256": "9261a65c42c03b3a850614434b3ff45ace5d336c6c6cdee392185b7f7a9953aa",
+      "bytes": 10467,
+      "lines": 243,
+      "routes": [
+        "/prebuilt-components/copilot-threads-drawer"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/programmatic-control": {
+      "file": "vue__google-adk__programmatic-control.md",
+      "sha256": "a06a9e76664fcc56d29a57fb7f318d28e01e8966c7267a8ea6af918111e0f40c",
+      "bytes": 6512,
+      "lines": 179,
+      "routes": [
+        "/programmatic-control"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/shared-state": {
+      "file": "vue__google-adk__shared-state.md",
+      "sha256": "0be850e6c446c4f001600d4e71680cc5a5bb384086e4b85f732589708d424b90",
+      "bytes": 7844,
+      "lines": 215,
+      "routes": [
+        "/shared-state"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/shared-state/agent-readonly": {
+      "file": "vue__google-adk__shared-state__agent-readonly.md",
+      "sha256": "d79da61e28806122bd2821b1625ec2500bfd7ef8ab71a06c9c368c36ecaa50ca",
+      "bytes": 3465,
+      "lines": 77,
+      "routes": [
+        "/shared-state/agent-readonly"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/shared-state/rendering-in-app": {
+      "file": "vue__google-adk__shared-state__rendering-in-app.md",
+      "sha256": "7cfab1af23341a97b9556fbb6ba08be40488ed4a6f50526beaf60faade890a8f",
+      "bytes": 5189,
+      "lines": 128,
+      "routes": [
+        "/shared-state/rendering-in-app"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/shared-state/streaming": {
+      "file": "vue__google-adk__shared-state__streaming.md",
+      "sha256": "58b032861ffe7a204ac116e9cd3fe565788e0683244e71b4e95528d65dc027ae",
+      "bytes": 8387,
+      "lines": 227,
+      "routes": [
+        "/shared-state/streaming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    },
+    "/vue/google-adk/webmcp": {
+      "file": "vue__google-adk__webmcp.md",
+      "sha256": "8bcae2139d51ca4feebb393b459cc3afc5f02c0d3a812cc9fdebfa857bf21454",
+      "bytes": 7251,
+      "lines": 161,
+      "routes": [
+        "/webmcp"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:48:54 GMT"
+    }
+  },
+  "sitemap": {
+    "fetchedAt": "2026-11-17T15:48:51.933Z",
+    "urlsUnderRoot": 0,
+    "knownUnmapped": []
+  }
+}
